@@ -21,3 +21,17 @@ quelqu'un a un job, est voyageur ou musicein u sportif,
 
 For users to access their "digital ID", they use a digital method (presumably, you mean digital authentication or interaction).
 - take part in the experience
+- ton identite numerique  🔮 . Elle ne révèle PAS ton destin, ta personnalité ou ton histoire intime
+
+Contrairement à une identité numérique créative (comme celle que tu explores sur GitHub), elle ne dit rien sur :
+
+• tes passions
+• tes rêves
+• ton caractère
+• ton style
+• ton parcours de vie
+• ton futur
+
+
+Elle est froide, neutre, fonctionnelle
+
