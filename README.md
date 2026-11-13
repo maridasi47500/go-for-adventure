@@ -1,6 +1,6 @@
 - take part in the experience
-- ![Capture d'écran 2026-11-13 222011.png](al text)
-- - !(Capture d'écran 2026-11-13 222011.png)[al text]
+- ![alt text](Capture d'écran 2026-11-13 222011.png)
+- - ![alt text](Capture d'écran 2026-11-13 222011.png)
 - fille /garçon
 - ville
 - nom d'aéroport
