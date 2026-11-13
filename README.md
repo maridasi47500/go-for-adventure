@@ -1,4 +1,16 @@
 - take part in the experience
+- !(Capture d'écran 2026-11-13 222011.png)[al text]
+- - !(Capture d'écran 2026-11-13 222011.png)[al text]
+- fille /garçon
+- ville
+- nom d'aéroport
+- prenom
+- photo
+- tes passions
+- tes rêves
+- ton caractère
+- ton style ton parcours de vie
+- saurais tu devenir ton futur toi meme ou aurais tu besoin d'une boule de cyrstal ?
 - :iphone: :standing_woman: :iphone: :standing_man:
 - - :iphone: :standing_woman: :iphone: :standing_man:
 - hey
